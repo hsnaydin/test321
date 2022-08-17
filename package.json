@@ -1,0 +1,16 @@
+{
+  "name": "test321",
+  "version": "1.0.0",
+  "description": "MY First Github Packages",
+  "author":"hsnaydin",
+  "devDependencies": {
+    "decentraland-ecs": "^6.11.4"
+  },
+  "dependencies": {
+    "decentraland-builder-scripts": "latest"
+  }
+  "repository":{
+	  "type":"git",
+	  "url":"https://github.com/hsnaydin/test321.git"
+  }
+}
